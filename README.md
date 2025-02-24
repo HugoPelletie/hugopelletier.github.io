@@ -36,4 +36,4 @@
 ##### 4. Pour mon identité numérique
 
  - Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, à une poursuite d'études ou à un emploi
- - Cela permettra de me faire référencer par les moteurs de recherches (là aussi si on me recherche suite à ma rencontre ou à la reception de mon CV)# Portfolio d'Amélia PILOU
+ - Cela permettra de me faire référencer par les moteurs de recherches (là aussi si on me recherche suite à ma rencontre ou à la reception de mon CV)
